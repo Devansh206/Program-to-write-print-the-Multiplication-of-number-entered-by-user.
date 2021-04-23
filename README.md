@@ -1,0 +1,1 @@
+# Program-to-write-print-the-Multiplication-of-number-entered-by-user.
